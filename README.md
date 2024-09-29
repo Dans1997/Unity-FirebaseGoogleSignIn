@@ -2,6 +2,13 @@
 A Unity C# script for integrating a Web-Based Google Sign-In with Firebase Authentication into Android/iOS applications.
 
 ![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
+[![GitHub stars](https://img.shields.io/github/stars/Dans1997/Unity-FirebaseGoogleSignIn)](https://github.com/Dans1997/Unity-FirebaseGoogleSignIn/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Dans1997/Unity-FirebaseGoogleSignIn)](https://github.com/Dans1997/Unity-FirebaseGoogleSignIn/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/Dans1997/Unity-FirebaseGoogleSignIn)](https://github.com/Dans1997/Unity-FirebaseGoogleSignIn/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/Dans1997/Unity-FirebaseGoogleSignIn)](https://github.com/Dans1997/Unity-FirebaseGoogleSignIn/pulls)
+[![Code Size](https://img.shields.io/github/languages/code-size/Dans1997/Unity-FirebaseGoogleSignIn)](https://github.com/Dans1997/Unity-FirebaseGoogleSignIn)
+[![Repo Size](https://img.shields.io/github/repo-size/Dans1997/Unity-FirebaseGoogleSignIn)](https://github.com/Dans1997/Unity-FirebaseGoogleSignIn)
+[![Last Commit](https://img.shields.io/github/last-commit/Dans1997/Unity-FirebaseGoogleSignIn)](https://github.com/Dans1997/Unity-FirebaseGoogleSignIn/commits/main)
 
 ## Introduction
 
