@@ -1,6 +1,8 @@
 # Unity-FirebaseGoogleSignIn
 A Unity C# script for integrating a Web-Based Google Sign-In with Firebase Authentication into Android/iOS applications.
 
+![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ## Introduction
 
 This script provides a **web-based solution** for integrating Google Sign-In with Unity on Android and iOS platforms. After struggling with the complexities of Google Sign-In integration in Unity for years, I decided to build a more streamlined and adaptable approach.
